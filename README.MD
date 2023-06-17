@@ -2,7 +2,7 @@ Furniture Resale market
 
 Live Demo:
 
-Client-side: https://github.com/Nusratgithub/used-product-resale-client
+Client-side: https://github.com/Nusratgithub/used-product-client-side
 
 About the Project:-
 
